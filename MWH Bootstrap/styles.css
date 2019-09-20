@@ -1,0 +1,19 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  background-color: #5E4454
+  color: #5F2324;
+  padding: 1% 0;
+  font-size: 1.2em;
+  border-radius: 0;
+}
+.navbar-brand{
+float:left;
+min-height: 55px;
+padding: 0 15px 5px
+}
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active .navbar-inverse .navbar-nav .active a:hover{
+  color: green;
+  background-color: white;
+}
+.navbar-invers .navbar-nav
